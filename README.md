@@ -13,6 +13,6 @@
 | prospero-pub-cmd.exe | Publishing Tools Command Line Version for PlayStation®5 | Publishing Tools Command Line Version for PlayStation®5 is a software that provides CUI versions of features, such as Package Generator. <a href="https://gist.github.com/florinsdistortedvision/cdb780a22b38cb257062243ee01ee6e6"> Command list </a> | None |
 | vagconv2w.exe and vagconv2.exe | VAG Converter 2 | VAG Converter 2 is a Windows-based tool that converts 16-bit linear PCM waveform data which has been produced using conventional sound tools, into HE-VAG data | None |
 | at9tool.exe | ATRAC9 Encoder/decoder | at9tool is an encoding/decoding tool for ATRAC9™ including ATRAC9™ Band Extension (shortened to "ATRAC9™" hereafter except under special conditions) | None |
-| ProsperoGP5Editor.exe | GP5 Generator for PlayStation®5 | All-in-one utlity to scan a dumped game/application folder structure and generate a .gp4 project file to be used with prospero-pub-cmd.exe when creating a PlayStation®5 package | None | 
+| ProsperoGP5Editor.exe | GP5 Generator for PlayStation®5 | All-in-one utlity to scan a game/application folder structure and generate a .gp5 project file to be used with prospero-pub-cmd.exe when creating a PlayStation®5 package | None | 
 | sieaacformattool.exe| AAC Format Tool | Windows-based tool used as an encoding/decoding tool for AAC format | None |
 | sieOpusFormatTool.exe | Opus Format Tool | Windows-based tool used as an encoding/decoding tool for Opus format | None |
